@@ -1,0 +1,14 @@
+{
+  "attendance": {
+    "What is my child’s attendance percentage?": "Your child's attendance percentage is 92%.",
+    "How much is my child's attendance?": "Your child has attended 85% of the classes this month."
+  },
+  "exam": {
+    "When is the next exam?": "The next exam is scheduled for March 15th.",
+    "Tell me about the exam schedule.": "The exam schedule will be released next week."
+  },
+  "fees": {
+    "When is the last date to pay fees?": "The last date for fee payment is February 28th.",
+    "How much fee is pending?": "Your pending fee amount is ₹15,000."
+  }
+}
